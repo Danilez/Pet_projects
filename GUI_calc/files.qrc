@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>files/sharp_backspace_white_36dp.png</file>
+    <file>files/sharp_calculate_white_36dp.png</file>
+  </qresource>
+</RCC>
